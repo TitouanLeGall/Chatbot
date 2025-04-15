@@ -1,6 +1,6 @@
 # Chatbot LLaMA 2 Local avec Flask
 
-Ce projet permet de créer un chatbot simple utilisant un modèle LLaMA 2 via Ollama, en local.
+Chatbot simple utilisant un modèle LLaMA 2 via Ollama, en local.
 
 ## Prérequis
 - Python 3.x
